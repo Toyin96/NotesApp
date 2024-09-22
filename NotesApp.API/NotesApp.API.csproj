@@ -15,4 +15,8 @@
       <ProjectReference Include="..\NotesApp.Domain\NotesApp.Domain.csproj" />
     </ItemGroup>
 
+    <ItemGroup>
+      <Content Include=".github\workflows\pr_checker.yml" />
+    </ItemGroup>
+
 </Project>
